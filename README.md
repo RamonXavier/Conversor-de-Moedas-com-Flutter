@@ -1,4 +1,4 @@
-# conversor_moedas
+# Conversor de Moedas com Flutter
 Aplicação Mobile
 
 <h1>Objetivo:</h1>
